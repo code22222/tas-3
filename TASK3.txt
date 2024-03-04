@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TASK5</title>
+    
+</head>
+
+<body bgcolor="grey" >
+    <table width="500" height="300" border="3" align="center" style="border-collapse: collapse;" >
+        <thead >
+            <form action=""><tr bgcolor="#A1C879">
+                <th colspan="3">Müraciət et</th>
+                
+            </tr>
+            
+            <tr>
+                <th bgcolor="#A1C879">Şəkil yükləyin</th>
+                <td colspan="2"   bgcolor="#6F939C">
+                    
+                        <label for="avatar"></label>
+                        <input type="file" name="" id="">
+                   
+                </td>
+                
+               
+            </tr>
+           
+            <tr>
+                <th bgcolor="#A1C879">Ad</th>
+                <td colspan="2"  bgcolor="#6F939C"align="center">
+                    
+                        <label for=""  ></label>
+                        <input type="text" name="" id="" placeholder="Ad" >
+                   
+                </td>
+            </tr>
+            <tr>
+                <th bgcolor="#A1C879">Soyad</th>
+                <td colspan="2" align="center" bgcolor="#6F939C">
+                   
+                        <label for=""></label>
+                        <input type="text" placeholder="Soyad">
+                   
+                </td>
+            </tr>
+            <tr>
+                <th bgcolor="#A1C879">
+                    Doğum tarixi
+                </th>
+                <td colspan="2" bgcolor="#6F939C"align="center">
+                    
+                    <label for=""></label>
+                    <input type="date">
+               
+
+                </td>
+               
+            </tr>
+            <tr bgcolor="#6F939C" align="center">
+                <th bgcolor="#A1C879">Cinsiyyət</th>
+                <td colspan="2">
+                    <label for="">kişi</label>
+                    <input type="radio">
+                    <label for="">qadın</label>
+                    <input type="radio">
+                </td>
+            </tr>
+            <tr>
+                <th bgcolor="#A1C879">
+                    Email
+                </th>
+                <td colspan="2" bgcolor="#6F939C"align="center">
+                    <label for=""></label>
+                    <input placeholder="emailinizi yazin" type="email">
+                </td>
+            <tr bgcolor="#A1C879">
+                <th rowspan="2" >
+                    Elaqe
+                </th>
+                <th rowspan="" bgcolor="#A1C879">
+                    Tel1
+                    
+                </th>
+                <td bgcolor="#6F939C">
+                    <input  type="text" name="" id="" placeholder="phone">
+
+                </td>
+           
+        
+            <tr>
+                <th bgcolor="#A1C879">
+                    Tel2
+                    
+                </th>
+                <td colspan="2" bgcolor="#6F939C">
+                    <input type="text" placeholder="phone">
+                </td>
+            </tr>
+        
+            <tr>
+                <th  bgcolor="#A1C879">Təcrübə</th>
+                <td colspan="2" bgcolor="#6F939C">
+                    <textarea name="" id="" cols="30" rows="3" placeholder="Təcrübələrinizi qeyd edin..."></textarea>
+                </td>
+            </tr>
+
+            <tr>
+                <th bgcolor="#A1C879">
+                    Xarici dillər
+                </th>
+                <td colspan="2" align="center" bgcolor="#6F939C">
+                    <label for="">İngilis dili</label>
+                    <input type="radio">
+                    <label for="">Türk dili</label>
+                    <input type="radio">
+                    <label for="">Rus dili</label>
+                    <input type="radio" name="" id="">
+
+                    
+                </td>
+            </tr>
+            <tr>
+                <th bgcolor="#A1C879">Əsgərlik</th>
+                <td colspan="2" align="center" bgcolor="#6F939C">
+                    
+                        <select class="" name="" id="">
+                         <option value="">Xidmede olub</option>
+                         <option value="">Xidmetde olmuyub</option>
+
+                        </select>
+                       
+
+                 
+                </td>
+            </tr>
+            <tr>
+                <th bgcolor="#A1C879">
+                    Təhsil
+                </th>
+                <td colspan="2" align="center" bgcolor="#6F939C">
+                  
+                        <select class="" name="" id="">
+                            <option value="">Ali Təhsil</option>
+                            <option value="">Orta Təhsil</option>
+
+                        </select>
+                   
+                </td>
+            </tr>
+            <tr>
+                <th bgcolor="#A1C879" colspan="3">
+                    <label for=""></label>
+                    <input type="submit">
+                </th>
+               
+            </tr>
+        </form>
+        </thead>
+
+    </table>
+    <hr> 
+    
+    <hr>
+    <h2 align="center">Bizim Haqqimizda</h2>
+    <center>
+        <video width="400" height="300"
+        controls>
+        <source src="Graduation Day - Kiber təhlükəsizlik və Data Science qrupları.mp4"
+        type="video/mp4">
+
+
+    
+</body>
+</html>
